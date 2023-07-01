@@ -1,0 +1,8 @@
+let age=65;
+if(age !== 60)
+console.log("Either of value or type are not same");
+if(age=='65')
+console.log('Values are same');
+// Triple equal to check both value and type
+if(age==='65')
+console.log("Both age and type are sam")
