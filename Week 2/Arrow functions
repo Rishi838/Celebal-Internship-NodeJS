@@ -1,0 +1,7 @@
+arrow function
+const myFunc = ()=>
+{
+     return "hello there"
+}
+val = myFunc();
+console.log(val)
